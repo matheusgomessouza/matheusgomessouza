@@ -2,7 +2,7 @@
 
 My name is Matheus Gomes de Souza 🧔🏾
 
-### I'm a developer passionate about frontend applications and in the process of learning backend applications 💻
+## I'm a developer passionate about frontend applications and in the process of learning backend applications 💻
 
 - ReactJS
 - NodeJS
