@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there
 
-<!--
-**matheusgomessouza/matheusgomessouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matheus Gomes de Souza 🧔🏾
 
-Here are some ideas to get you started:
+### I'm a developer passionate about frontend applications and in the process of learning backend applications 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ReactJS
+- NodeJS
+- React Native
+- NextJS
+- Elixir
+
+###  "Never stop learning" 🚀🚀🚀
+
+📍 São José do Rio Preto - SP
+ 💻 Developer at [Prospecta Digital](https://prospecta.digital/)
+
+Reach me out 👇🏼
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-de-souza/)](https://www.linkedin.com/in/matheus-gomes-de-souza/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-D90152?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mathsouza_gomes/)](https://www.instagram.com/mathsouza_gomes/) 
