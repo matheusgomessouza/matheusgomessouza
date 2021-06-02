@@ -13,7 +13,6 @@ My name is Matheus Gomes de Souza 🧔🏾🇧🇷
 ###  "Never stop learning" 🚀🚀🚀
 
 - 📍 São José do Rio Preto - SP
-- 💻 Developer at [Prospecta Digital](https://prospecta.digital/)
 
 Reach me out 👇🏼
 
