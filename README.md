@@ -25,5 +25,5 @@ Reach me out 👇🏼
 
 <div style="display:flex">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheusgomessouza&show_icons=true&theme=tokyonight" alt="matheusgomessouza's stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomessouza&layout=compact&theme=tokyonight" alt="matheusgomessouza's most languages"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomessouza&layout=compact&theme=tokyonight" alt="matheusgomessouza's most languages"/>
 </div>
