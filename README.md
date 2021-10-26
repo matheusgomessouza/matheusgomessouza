@@ -20,3 +20,10 @@ My name is Matheus Gomes de Souza 🧔🏾🇧🇷
 Reach me out 👇🏼
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-de-souza/)](https://www.linkedin.com/in/matheus-gomes-de-souza/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-D90152?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mathsouza_gomes/)](https://www.instagram.com/mathsouza_gomes/) 
+ 
+ ## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheusgomessouza&show_icons=true&theme=vision-friendly-dark" alt="matheusgomessouza's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomessouza&layout=compact&theme=vision-friendly-dark" alt="matheusgomessouza's most languages"/>
+</p>
