@@ -1,4 +1,4 @@
-## Hi there 🖐🏾
+## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">🏾
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusgomessouza&color=yellow" alt="Profile views" /> </p>
 My name is Matheus Gomes de Souza 🧔🏾🇧🇷
 
