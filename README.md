@@ -24,6 +24,6 @@ Reach me out 👇🏼
  ## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display:flex">
-<img src="https://github-readme-stats.vercel.app/api?username=matheusgomessouza&show_icons=true&theme=tokyonight" alt="matheusgomessouza's stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomessouza&layout=compact&theme=tokyonight" alt="matheusgomessouza's most languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheusgomessouza&show_icons=true&theme=tokyonight" alt="matheusgomessouza's stats"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomessouza&layout=compact&theme=tokyonight" alt="matheusgomessouza's most languages"/>
 </div>
