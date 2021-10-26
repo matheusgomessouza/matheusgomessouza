@@ -1,5 +1,5 @@
 ## Hi there 🖐🏾
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusgomessouza&color=yellow" alt="Profile views" /> </p>
 My name is Matheus Gomes de Souza 🧔🏾🇧🇷
 
 ## I'm a developer passionate about frontend applications and in the process of learning backend applications 💻
