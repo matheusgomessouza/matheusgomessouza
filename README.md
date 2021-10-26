@@ -23,7 +23,7 @@ Reach me out 👇🏼
  
  ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="left" style="display:flex">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheusgomessouza&show_icons=true&theme=vision-friendly-dark" alt="matheusgomessouza's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomessouza&layout=compact&theme=vision-friendly-dark" alt="matheusgomessouza's most languages"/>
 </p>
