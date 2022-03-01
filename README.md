@@ -14,7 +14,6 @@ My name is Matheus Gomes de Souza 🧔🏾🇧🇷
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
 
-###  "Never stop learning" 🚀🚀🚀
 
 
 Reach me out 👇🏼
