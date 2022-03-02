@@ -2,7 +2,7 @@
 
 My name is Matheus Gomes de Souza 🧔🏾🇧🇷
 
-## I'm a developer passionate about frontend applications and in the process of learning backend applications 💻
+## And I develop in the following technologies ⬇️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
