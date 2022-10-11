@@ -1,8 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
 
-My name is Matheus Gomes de Souza 🧔🏾🇧🇷
-
-## And I develop in the following technologies ⬇️
+## I develop in the following technologies ⬇️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
