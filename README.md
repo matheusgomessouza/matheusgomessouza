@@ -11,9 +11,10 @@
 
 
 
-Reach me out 👇🏼
+**Reach me out** 👇🏼
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-de-souza/)](https://www.linkedin.com/in/matheus-gomes-de-souza/) <img src="https://komarev.com/ghpvc/?username=matheusgomessouza&color=blue" alt="Profile views" />
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-de-souza/)](https://www.linkedin.com/in/matheus-gomes-de-souza/) ![Twitch Status](https://img.shields.io/twitch/status/mathw_z?style=social) 
+ <!--img src="https://komarev.com/ghpvc/?username=matheusgomessouza&color=blue" alt="Profile views" /-->
  
  ## ⚙️ &nbsp;GitHub Analytics
 
