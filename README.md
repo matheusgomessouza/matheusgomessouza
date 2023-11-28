@@ -32,7 +32,7 @@ I strongly believe in the power of collaboration. My journey in development has 
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [Matheus Gomes Souza](https://www.linkedin.com/in/matheus-gomes-souza/)
+- **LinkedIn:** [Matheus Gomes Souza](https://www.linkedin.com/in/matheus-gomes-de-souza/?locale=en_US)
 - **Portfolio:** [mathpholio.vercel.app](https://mathpholio.vercel.app/)
 
 Feel free to reach out for collaboration, questions, or just a friendly chat. I'm always open to new opportunities and connections!
