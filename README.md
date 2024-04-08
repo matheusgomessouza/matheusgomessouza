@@ -6,7 +6,7 @@ I thrive on turning ideas into reality through code. My journey in the tech worl
 
 ## 🛠️ Tech Stack
 
-- **Front-End:** React, React Native
+- **Front-End/Mobile:** React, React Native
 - **Back-End:** Node.js, Express
 - **Frameworks:** Next.js
 - **Database:** PostgreSQL, MySQL
