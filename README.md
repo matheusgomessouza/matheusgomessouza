@@ -50,10 +50,3 @@ Feel free to reach out for collaboration, questions, or just a friendly chat. I'
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-gomes-de-souza/)](https://www.linkedin.com/in/matheus-gomes-de-souza/)
  <img src="https://komarev.com/ghpvc/?username=matheusgomessouza&color=blue" alt="Profile views" />
- 
- ## ⚙️ &nbsp;GitHub Analytics
-
-<div style="display:flex">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=matheusgomessouza&show_icons=true&theme=tokyonight" alt="matheusgomessouza's stats"/>
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomessouza&layout=compact&theme=tokyonight" alt="matheusgomessouza's most languages"/>
-</div>
