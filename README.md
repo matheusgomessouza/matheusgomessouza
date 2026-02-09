@@ -8,12 +8,12 @@ I thrive on turning ideas into reality through code. My journey in the tech worl
 
 ## 🛠️ Tech Stack
 
-- **Front-End:** React
+- **Front-End:** React, HTML, CSS, Javascript
 - **Mobile:** React Native
 - **Back-End:** Node.js, Python, Java
 - **Frameworks:** Next.js, Express, FastAPI
 - **Database:** PostgreSQL, MySQL
-- **ORM:** PrismaORM
+- **ORM:** PrismaORM, SQLAlchemy
 - **Other:** C
 
 
