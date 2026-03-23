@@ -46,5 +46,4 @@ I design and deliver scalable, production-grade web applications and APIs. I com
 - **Portfolio**: https://mathpholio.dev  
 - **Articles (Notion)**: https://www.notion.so/Web-Development-Docs-d1ebd3fda2d040e4810cc0e6447cf17b
 
----
 
