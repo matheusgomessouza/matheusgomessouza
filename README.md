@@ -1,4 +1,4 @@
-👋 Hello there! I'm Matheus Gomes Souza. Welcome to my GitHub profile!
+👋 Hello there! I'm Matheus Gomes Souza.
 
 **Senior Fullstack Engineer** · React · Next.js · TypeScript · Node.js · Python  
 Blumenau, Brazil · matheusg_souza@outlook.com · [LinkedIn](https://linkedin.com/in/matheus-gomes-de-souza) · [Portfolio](https://mathpholio.dev) · [GitHub](https://github.com/matheusgomessouza) · [Articles on Notion](https://www.notion.so/Web-Development-Docs-d1ebd3fda2d040e4810cc0e6447cf17b)
